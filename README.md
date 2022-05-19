@@ -1,2 +1,2 @@
 # Fokir
-HTML/CSS Template
+Responsive Template using  HTML , CSS and media Query
