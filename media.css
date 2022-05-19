@@ -1,0 +1,150 @@
+/* Media Query */
+
+/* small */
+
+@media (max-width: 600px) {
+  .services-item {
+    width: 100% !important;
+  }
+  .header-content {
+    font-size: 10px;
+  }
+  .port-img {
+    width: 100% !important;
+  }
+  .port button {
+    padding: 20px 0px !important;
+    /* font-size: 13px; */
+  }
+  .team-item {
+    width: 100%;
+  }
+  .client-img {
+    width: 100%;
+  }
+  .client-img {
+    width: 100%;
+  }
+  .navbar a {
+    font-size: 10px;
+  }
+  .client {
+    width: 80%;
+    /* text-align: center; */
+  }
+  .fokir {
+    padding: 15px 0px;
+    font-size: 13px;
+  }
+  .navbar li {
+    padding: 23px 0px;
+    font-size: 10px;
+  }
+}
+@media (max-width: 789px) {
+  .header .container {
+    width: 100%;
+  }
+  .navbar a {
+    font-size: 13px;
+  }
+  .fokir {
+    padding: 15px 20px;
+    font-size: 17px;
+  }
+  .navbar li {
+    padding: 23px 7px;
+    font-size: 14px;
+  }
+
+  .person .item {
+    float: initial;
+    width: 100%;
+  }
+  .footer .content {
+    width: 100% !important;
+  }
+}
+@media (max-width: 992px) {
+  .header-content {
+    font-size: 22px;
+  }
+  .header .container {
+    width: 90%;
+  }
+  .navbar {
+    font-size: 13px;
+  }
+  .header-content span {
+    font-size: 38px;
+  }
+  .services-item {
+    width: 50%;
+  }
+  .port button {
+    padding: 20px 5px;
+  }
+  .port-img {
+    width: 50%;
+  }
+  .client-img {
+    float: initial;
+    /* margin: auto; */
+    width: 100%;
+    text-align: center;
+  }
+  .client-img img {
+    width: 70%;
+    float: initial;
+  }
+
+  .blog .item {
+    width: 100%;
+  }
+}
+/* large */
+
+@media (max-width: 1270px) {
+  .hello-img {
+    width: 100%;
+    text-align: center;
+  }
+  .hello-img img {
+    width: 100%;
+  }
+  .content-top {
+    width: 100%;
+  }
+  .helllo {
+    text-align: center;
+    border: none;
+    width: 100%;
+    height: auto;
+  }
+  .prof {
+    position: initial;
+    width: 100%;
+  }
+  .hello-content {
+    width: 100%;
+  }
+  .hello .content-left {
+    float: initial;
+  }
+  /* .feedback .container
+  {
+    width: 90%;
+  } */
+  .blog .container {
+    width: 100%;
+  }
+  .blog .Special {
+    font-size: 22px;
+  }
+  .contact .container {
+    width: 100%;
+  }
+  .footer .content {
+    width: 60%;
+  }
+}
